@@ -1,4 +1,5 @@
-# Data Science Fundamentals with Python and SQL Specialization
+# Data Science Fundamentals with Python and SQL Specialization (5 course series)
+
 ## About this Specialization
 
 
@@ -11,6 +12,3 @@ Upon successfully completing these courses, you will have the practical knowledg
 
 No prior knowledge of computer science or programming languages required. 
 
-## Applied Learning Project
-
-All courses in the specialization contain multiple hands-on labs and assignments to help you gain practical experience and skills with a variety of data sets.The projects range from building a dashboard with Python, analyzing socio-economic data with SQL, and performing regression analysis with housing data. 
